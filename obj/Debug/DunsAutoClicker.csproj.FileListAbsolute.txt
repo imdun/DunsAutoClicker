@@ -1,0 +1,15 @@
+C:\Users\thenr\Desktop\DunsAutoClicker\bin\Debug\DunsAutoClicker.exe.config
+C:\Users\thenr\Desktop\DunsAutoClicker\bin\Debug\DunsAutoClicker.exe
+C:\Users\thenr\Desktop\DunsAutoClicker\bin\Debug\DunsAutoClicker.pdb
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.Nothing.resources
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.Properties.Resources.resources
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.csproj.GenerateResource.cache
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.csproj.Fody.CopyLocal.cache
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.exe
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.pdb
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.exe.manifest
+C:\Users\thenr\Desktop\DunsAutoClicker\bin\Debug\DunsAutoClicker.exe.manifest
+C:\Users\thenr\Desktop\DunsAutoClicker\bin\Debug\DunsAutoClicker.application
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.application
+C:\Users\thenr\Desktop\DunsAutoClicker\obj\Debug\DunsAutoClicker.csprojAssemblyReference.cache
